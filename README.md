@@ -16,7 +16,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## Useful Links
-https://www.youtube.com/watch?v=13-jNF984C0
-https://github.com/flutter/plugins/blob/master/FlutterFire.md
-https://pub.dartlang.org/packages/firebase_auth
-https://pub.dartlang.org/packages/cloud_firestore
+- [Video Tutorial on firebase auth and firestore basics](https://www.youtube.com/watch?v=13-jNF984C0)
+- [FlutterFire Reference](https://github.com/flutter/plugins/blob/master/FlutterFire.md)
+- [firebase auth guide](https://pub.dartlang.org/packages/firebase_auth)
+- [firestore guide](https://pub.dartlang.org/packages/cloud_firestore)
